@@ -44,8 +44,8 @@ Foundry · Hardhat · Slither · Echidna · Mythril
 ### contact
 
 - X: [@0xcoldtrace](https://x.com/0xcoldtrace)
-- Telegram: `@coldtrace`
-- Email: `coldtrace@proton.me`
+- Telegram: `@coldtrace0x`
+- Email: `mnphuong888@gmail.com`
 
 ---
 
